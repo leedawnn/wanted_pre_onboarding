@@ -47,7 +47,7 @@ const TabMenus = styled.ul`
   height: 34px;
   display: flex;
   justify-content: space-around;
-  border-bottom: 2px solid #ababab;
+  border-bottom: 2px solid #ebebeb;
 `;
 
 const TabMenu = styled.li`
